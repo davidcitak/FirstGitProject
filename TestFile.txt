@@ -1,1 +1,2 @@
 This is first git project with txt file.
+Second line of sentence. 
